@@ -15,7 +15,7 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: Purdue University
-  url: ""
+  url: "https://www.ipph.purdue.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Graduate Student in Department of Industrial and Physical Pharmacy, College of Pharmacy, Purdue University, West Lafayette, IN, USA
