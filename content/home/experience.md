@@ -25,10 +25,7 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2019-08-22"
   description = """
-  Projects:
-  
-  * Temperature, Steric, and Electronic Effects on Microstructure and Average Molecular Weight of Poly(1-hexene) by Chain Walking Polymerization
-  * Solvent Effects on the Crystallization Behavior of Diblock Copolymer PEO-b-PCL
+
   """
 
 [[experience]]
@@ -39,7 +36,5 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-08-15"
   description = """
-  Projects:
-  * Drug-Polymer Interactions and Miscibility in Binary and Ternary Amorphous Solid Dispersions
 
 +++
