@@ -26,9 +26,10 @@ interests:
 education:
   courses:
   - course: PhD in Industrial and Physical Pharmacy
-    institution: Purdue University
+    institution: Purdue University, West Lafayette, IN, USA
+    year: In Progress
   - course: BS Chemistry
-    institution: Allegheny College
+    institution: Allegheny College, Meadville, PA, USA
     year: 2019
 
 # Social/Academic Networking
